@@ -11,6 +11,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 this is test to go through the flow
 11111111111222
+test
 
 ## How to test
 
