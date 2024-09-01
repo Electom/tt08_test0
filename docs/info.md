@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+this is test to go through the flow
+11111111111222
 
 ## How to test
 
-Explain how to use your project
+use the default settings
+aadadsadas
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+no
